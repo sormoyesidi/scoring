@@ -1,0 +1,13 @@
+shap
+jsonschema
+joblib
+pandas
+numpy==1.23.1
+uvicorn
+gunicorn
+fastapi
+pydantic
+requests
+streamlit
+lightgbm
+imblearn
